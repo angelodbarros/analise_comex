@@ -1,6 +1,6 @@
 # 🚢 Analisando Dados de Comércio Exterior 🚢
 
-Esse projeto explora uma base de dados do comércio exterior brasileiro divulgada pelo Ministério da Economia. As principais habilidades utilizadas foram: importação de dados a partir de CSVs, criação de tabelas temporárias, cálculos utilizando funções de agregação e funções de janela (_window functions_), realização de subconsultas, _common table expressions_ (CTEs) e junção de múltiplas tabelas.
+Esse projeto explora uma base de dados do comércio exterior brasileiro divulgada pelo Ministério da Economia. As principais habilidades demandadas foram: importação de dados a partir de CSVs, criação de tabelas temporárias, cálculos utilizando funções de agregação e funções de janela (_window functions_), realização de subconsultas, _common table expressions_ (CTEs) e junção de múltiplas tabelas.
 
 
 ## Primeiros Passos
