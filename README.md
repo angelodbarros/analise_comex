@@ -23,7 +23,7 @@ Uma visão inicial do dados permite observar que a maioria das colunas das tabel
 
 Após obter acesso às bases, é realizada a elaboração de consultas utilizando o SQL. A análise acabou sendo dividida em duas etapas:
 
-  a. **[Importação dos dados para o PostgreSQL](https://github.com/angelodbarros/analise_comex/blob/main/importacao_dados.sql)**: foram criadas as tabelas no banco de dados, importados os dados e estabelecidas as diversas restrições que favorecerão a eficácia das consultas (definição de chaves primárias e estrangeiras entre as tabelas de importação e exportação com relação às demais.
+  a. **[Importação dos dados para o PostgreSQL](https://github.com/angelodbarros/analise_comex/blob/main/importacao_dados.sql)**: foram criadas as tabelas no banco de dados, importados os dados e estabelecidas as diversas restrições que favorecerão a eficácia das consultas (definição de chaves primárias e estrangeiras entre as tabelas de importação e exportação e as demais).
   
   b. **[Busca por insights](https://github.com/angelodbarros/analise_comex/blob/main/analise_exploratoria.sql)**: nessa etapa foi selecionada a década de 2010 visando responder quatro perguntas a respeito do padrão de comércio exterior do Brasil no período:
   
@@ -31,6 +31,6 @@ Após obter acesso às bases, é realizada a elaboração de consultas utilizand
   
   - Qual o principal item importado e exportado (US$ FOB) em cada ano?
 
-  - Com quais países o Brasil possui balança comercial mais superavitária? E deficitária? Em qual patamar?
+  - Com quais países o Brasil apresentou balança comercial mais superavitária? E deficitária? Em qual patamar?
   
   - Qual o item mais comercializado na pauta de importação e exportação brasileira com cada um dos países com os quais se tem registro disponível?
