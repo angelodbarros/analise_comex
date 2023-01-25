@@ -9,7 +9,7 @@ Para obter acesso facilitado aos dados, foi utilizado o site do projeto [Base do
 
 
 
-Após isso, o acesso ao _datalake_ se dá através do pacote [basedosdados](https://pypi.org/project/basedosdados/) (utilizei a versão para Python). Na sequência, é feito o download dos dados e a exportação para o formato CSV utilizando o método _to_csv_ do pacote [pandas](https://pandas.pydata.org/). A imagem abaixo ilustra esse processo, que foi realizado também para a obtenção dos dados de importação.
+Após isso, o acesso ao _datalake_ se dá através do pacote [basedosdados](https://pypi.org/project/basedosdados/) (utilizei a versão para Python). Na sequência, é feito o download dos dados e a exportação para o formato CSV utilizando o método _to_csv_ do pacote [pandas](https://pandas.pydata.org/). A imagem abaixo ilustra esse processo, que foi realizado também para a obtenção dos dados de importação. Em função do tamanho das bases, a inserção no repositório fica inviabilizada, mas o script com o passo a passo do download pode ser acessado por [aqui](https://github.com/angelodbarros/analise_comex/blob/main/importacao_dados_comex.ipynb).
 
 ![Exemplo_ImportandoDados](https://user-images.githubusercontent.com/60938249/214632078-50e38b98-8f8f-41d4-a718-ceb077f78fcb.png)
 
